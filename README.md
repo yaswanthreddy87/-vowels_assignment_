@@ -1,0 +1,1 @@
+# -vowels_assignment_
